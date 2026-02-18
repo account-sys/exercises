@@ -1,1 +1,3 @@
 # exercises
+
+some examples, tests 'n exercises...
